@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Note SqlLite</string>
+    <string name="app_name">NoteApp</string>
     <string name="todo">TODO</string>
     <string name="save_Button">Savebtn</string>
     <string name="enter_the_description">Enter the description</string>
